@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Project specific
+output*/
+output_*/
+processed*/
+processed_*/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aiff
+*.aif
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Test files
+test_audio/
+test_output/
+tests/output/
+
+# MCP specific
+.mcp/
+mcp_logs/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Docker (in case you add compose files later)
+.dockerignore
+docker-compose.override.yml
