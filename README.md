@@ -1,6 +1,6 @@
 # FFmpeg MCP Server for Audio Processing
 
-A secure, containerized MCP (Model Context Protocol) server that provides AI assistants with powerful FFmpeg audio processing capabilities. Process entire directories of audio files with consistent output format while maintaining security through Docker sandboxing.
+A secure, containerized MCP (Model Context Protocol) server that provides AI assistants with anything FFmpeg. Process entire directories of audio files with consistent output format while maintaining security through Docker sandboxing.
 
 ## Features
 
